@@ -16,7 +16,7 @@ as each separate dying ember wrought its ghost upon the floor.
 
 ## new change
 
-## Some other happy changes
+## Some other fun changes
 
 
-## some more changes to the tish branch
+## some changes to the tish branch
