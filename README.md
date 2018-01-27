@@ -15,6 +15,9 @@ Ah, yes I remember, it twas in the bleak december,
 as each separate dying ember wrought its ghost upon the floor. 
 
 ## new change
+
+
+## Some other fun changes
 I don't know why there's a new change but okay then.
 
 ## The Jabberwocky
@@ -28,3 +31,5 @@ Beware the Jabberwock, my son!
 The jaws that bite, the claws that catch!
 Beware the Jubjub bird, and shun
 The frumious Bandersnatch!
+
+## some changes to the tish branch
