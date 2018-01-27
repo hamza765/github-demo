@@ -1,7 +1,7 @@
 # github-demo
 Demonstrating how to create new repositories
 
-## And showing the vim editor
+## The Raven excerpt
 Once upon a midnight dreary,
 While I pondered, weak, and weary,
 Over a quaint and curious a volume of forgotten lore.
@@ -16,7 +16,20 @@ as each separate dying ember wrought its ghost upon the floor.
 
 ## new change
 
-## Some other fun changes
 
+## Some other fun changes
+I don't know why there's a new change but okay then.
+
+## The Jabberwocky
+
+Twas brillig, and the slithy toves
+Did gyre and gimble in the wabe:
+All mimsy were the borogoves,
+And the mome raths outgrabe.
+
+Beware the Jabberwock, my son!
+The jaws that bite, the claws that catch!
+Beware the Jubjub bird, and shun
+The frumious Bandersnatch!
 
 ## some changes to the tish branch
